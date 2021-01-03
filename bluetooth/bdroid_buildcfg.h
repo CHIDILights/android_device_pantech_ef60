@@ -17,7 +17,7 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME   "Vega Secret UP"
+#define BTM_DEF_LOCAL_NAME   "VEGA Secret UP"
 
 // #define BLE_VND_INCLUDED          TRUE
 #define BLUETOOTH_QTI_SW          TRUE
